@@ -1,10 +1,10 @@
 import React from "react";
-import Meals from "./components/Meals";
+import Testimonial from "./components/Testimonial";
 
 const App = () => {
   return (
     <div>
-      <Meals />
+      <Testimonial />
     </div>
   );
 };
